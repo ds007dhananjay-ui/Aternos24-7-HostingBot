@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "Damnserver-5jxm.aternos.me"
+    "port": 19132,
     "version": "",
     "try-creative": false
   },
@@ -53,7 +53,7 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 1000
     }
   },
   "modules": {
